@@ -39,7 +39,6 @@ const Bio = () => {
 
         src="https://y.team/wp-content/uploads/2019/07/y-purple.png"
 
-
         width={50}
         height={50}
         quality={95}
