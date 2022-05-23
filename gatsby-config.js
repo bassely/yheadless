@@ -1,14 +1,18 @@
 module.exports = {
   siteMetadata: {
+
     title: `Headless Blog`,
     author: {
       name: `Y Team`,
       summary: `a testing blog for headless implementation over Git and Gatsby.`,
+
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
+
       twitter: `yteam`,
+
     },
   },
   plugins: [
@@ -129,5 +133,6 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
     `gatsby-plugin-netlify-cms`    
+
   ],
 }
