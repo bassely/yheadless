@@ -36,7 +36,9 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="https://y.team/wp-content/uploads/2019/07/y-purple.png"
+
+        src=""
+
         width={50}
         height={50}
         quality={95}

@@ -1,14 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Headless Blog using NetlifyCMS`,
+
+    title: `Headless Blog`,
     author: {
       name: `Y Team`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `a testing blog for headless implementation over Git and Gatsby.`,
+
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `basselt`,
+
+      twitter: `yteam`,
+
     },
   },
   plugins: [
